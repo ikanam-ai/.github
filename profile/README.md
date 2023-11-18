@@ -2,6 +2,8 @@
 
 Welcome to the ikanam-ai organization! We are a team of passionate data scientists who love taking on challenges and pushing the boundaries of what is possible in the world of artificial intelligence. 🧠💻 Our repositories cover a diverse range of projects, each showcasing our commitment to innovation and problem-solving.
 
+![ikanam-ai Logo](./img.jpeg)
+
 ## About Us 🌟
 
 We are a dynamic team of data scientists at ikanam-ai, fueled by curiosity and driven by a shared passion for leveraging AI to make a positive impact. From tackling environmental challenges to exploring the frontiers of natural language processing, we are dedicated to pushing the boundaries of what AI can achieve. 🌍💬
