@@ -1,4 +1,4 @@
-# ikanam-ai Organization 🚀
+# ikanam-ai Organization ❤️
 
 Welcome to ikanam-ai! We are a team of passionate data scientists and machine learning engineers dedicated to pushing the boundaries of artificial intelligence. Our work spans a variety of domains, from natural language processing to environmental analytics, all driven by curiosity and a commitment to innovation. 🧠💡
 
